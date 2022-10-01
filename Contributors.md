@@ -1258,6 +1258,6 @@
 - [Ayush Tyagi Gzb](https://github.com/IayushCoderJOD)
 - [Kilian Braquin](https://github.com/kilianbraquin)
 -[Miss Stuck A Lot](https://github.com/miss-stuck-a-lot)
-
+-[Manish Kumar](https://github.com/itsmaanish)
 
 <!-- prettier-ignore-end -->
